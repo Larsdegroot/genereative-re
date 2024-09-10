@@ -1,0 +1,14 @@
+# Enviroment
+/venv
+
+# jupyter checkpoints
+*.ipynb_checkpoints
+/*.ipynb_checkpoints
+config/*.ipynb_checkpoints
+_sources/.ipynb_checkpoints
+notebooks/*.ipynb_checkpoints
+data/cdr_seq2rel/*.ipynb_checkpoints
+data/test_eval/cdr_seq2rel/.ipynb_checkpoints
+
+# PyCache
+*.pyc
